@@ -1,23 +1,19 @@
-# my-cpu-build-2025
+# Digital Design Portfolio
 
-My RISC-V CPU Project 
+Verilog implementations demonstrating progression from fundamental building blocks to complex digital design systems.
 
-I am an Electrical Engineering Junior, starting to this project to explore and learning how CPUs actually work. I know how how to program in Verilog as a novice but I've never made a complete CPU from scratch. 
+## Current Implementations
 
-Goal: Build a working RV32I (32-bit RISC-V) processor over the next 6-7 weeks. 
+### Combinational Logic
+- Full Adder: 1-bit binary addition with carry propagation
+- Half Adder: Basic 2-input binary addition  
+- Multiplexer (2:1): Data selector
+- Logic Gates: AND, OR, XOR primitives
 
-## Progress
 
-[] Week 1: Verilog Basics Refresher, ALU & Registers 
-[] Week 2: Control Unit 
-[] Week 3: Single-Cycle CPU 
-[] Week 4: Pipelining
-[] Week 5: FPGA
-[] Week 6-7: Polish and Document 
+## Tools & Simulation
+- Icarus Verilog
+- GTKWave
 
-## Resources 
-
-- Textbook "Getting Started With FPGAs Digital Circuit Design, Verilog and VHDL for Beginners" by Russel Merrick 
-- Learning conceptual guidance from AI assistant, documenting my understanding as I go. 
-
-Start: January 25th, 2026
+## About
+Systemic progression in digital design fundamentals, building from basic gates toward more complex circuits.
